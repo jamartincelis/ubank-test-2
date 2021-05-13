@@ -1,0 +1,54 @@
+[
+{
+    "model": "api.equipo",
+    "pk": 1,
+    "fields": {
+        "name": "Barcelona, FC",
+        "city": "Barcelona"
+    }
+},
+{
+    "model": "api.equipo",
+    "pk": 2,
+    "fields": {
+        "name": "Real Madrid",
+        "city": "Madrid"
+    }
+},
+{
+    "model": "api.jugador",
+    "pk": 1,
+    "fields": {
+        "name": "Leonel Messi",
+        "goals": 31,
+        "equipo": 1
+    }
+},
+{
+    "model": "api.jugador",
+    "pk": 2,
+    "fields": {
+        "name": "Gerard Pike",
+        "goals": 10,
+        "equipo": 1
+    }
+},
+{
+    "model": "api.jugador",
+    "pk": 3,
+    "fields": {
+        "name": "Christiano Ronald",
+        "goals": 31,
+        "equipo": 2
+    }
+},
+{
+    "model": "api.jugador",
+    "pk": 4,
+    "fields": {
+        "name": "Zinedine Zidan",
+        "goals": 25,
+        "equipo": 2
+    }
+}
+]
